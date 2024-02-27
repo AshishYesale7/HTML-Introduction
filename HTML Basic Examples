@@ -1,0 +1,80 @@
+In this chapter we will show some basic HTML examples.
+
+Don't worry if we use tags you have not learned about yet.
+
+
+This code defines a basic HTML document with the following elements:
+
+
+<!DOCTYPE html>: This declaration specifies the document type as HTML.
+<html>: This tag is the root element of the HTML document.
+<body>: This tag contains the content that will be displayed in the web browser.
+<h1>: This tag defines a heading of level 1 (the largest heading size).
+
+
+<!-- html basic  examples with heading and paragraph -->
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<!-- html basic ecamples with types of Heading 
+
+Start with <h> and ends with </h> -->
+<h> this is heading tag <h>
+
+<h1>My First Heading</h1>
+<h2>My First Heading</h2>
+<h3>My First Heading</h3>
+<h4>My First Heading</h4>
+<h5>My First Heading</h5>
+<h6>My First Heading</h6>
+
+ 
+
+
+<!-- html basic ecamples with types of Paragraph  -->
+
+<p>My first paragraph.</p>
+
+<!-- 
+
+
+HTML basic link 
+
+
++ HTML links are defined with the <a> tag:
+
+
++ Attributes are used to provide additional information about HTML elements.
+
+
+
+-->
+
+
+
+
+<a href="https://www.w3schools.com">This is a link</a>
+
+
+
+<!-- 
+
+
+   HTML basic image  
+
+
+
+
+
+
+-->
+
+
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+
+</body>
+</html>
+
+
