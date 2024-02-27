@@ -3,8 +3,7 @@ HTML is the standard markup language for creating Web Pages.
 
 
 <h1> What is HTML </h1>
-
-<th>
+ 
 <ul>
   <li> HTML stands for Hyper test markup language </li>
     <li> HTML is the standard markup language for creating Web Page</li>
@@ -15,6 +14,12 @@ HTML is the standard markup language for creating Web Pages.
 
 
 </ul>
+
+<h1> Reading Roadmap </h1>
  
-
-
+<li> What is HTML?
+<li> A Simple HTML Document
+<li> What is an HTML Element?
+<li> Web Browsers
+<li> HTML Page Structure
+<li> HTML History
