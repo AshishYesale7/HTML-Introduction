@@ -25,6 +25,5 @@
 
 </ui>
 
-<img  width="560px" height="300px" href="https://www.w3schools.com/html/img_chrome.png"/>
-
-
+ 
+<img  width="560px" height="300px" src="https://www.w3schools.com/html/img_chrome.png"/>
