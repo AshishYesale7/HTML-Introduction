@@ -36,7 +36,7 @@ Start with <h> and ends with </h> -->
  
 
 
-<!-- html basic ecamples with types of Paragraph  -->
+<!-- html basic examples with types of Paragraph ddefined by <p> -->
 
 <p>My first paragraph.</p>
 
@@ -46,7 +46,13 @@ Start with <h> and ends with </h> -->
 
    HTML basic image  
 
+ + HTML images are defined with the <img> tag.
  
+ +The source file (src), alternative text (alt), width, and height are provided as attributes:
+
+ width : describes the horizontal calculation of image
+
+ height : describes the vertical calculation of image
 -->
 
 
@@ -63,9 +69,7 @@ HTML basic link
 
 
 + Attributes are used to provide additional information about HTML elements.
-
-
-
+ 
 -->
 
  
