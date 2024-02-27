@@ -1,16 +1,19 @@
-In this chapter we will show some basic HTML examples.
+<p>In this chapter we will show some basic HTML examples.
 
 Don't worry if we use tags you have not learned about yet.
 
 
 This code defines a basic HTML document with the following elements:
+</p>
 
-
-<!DOCTYPE html>: This declaration specifies the document type as HTML.
+<!-- 
+!DOCTYPE html >: This declaration specifies the document type as HTML.
+ 
 <html>: This tag is the root element of the HTML document.
 <body>: This tag contains the content that will be displayed in the web browser.
 <h1>: This tag defines a heading of level 1 (the largest heading size).
 
+-->
 
 <!-- html basic  examples with heading and paragraph -->
 
@@ -21,7 +24,7 @@ This code defines a basic HTML document with the following elements:
 <!-- html basic ecamples with types of Heading 
 
 Start with <h> and ends with </h> -->
-<h> this is heading tag <h>
+<h> this is heading tag </h>
 
 <h1>My First Heading</h1>
 <h2>My First Heading</h2>
@@ -36,6 +39,19 @@ Start with <h> and ends with </h> -->
 <!-- html basic ecamples with types of Paragraph  -->
 
 <p>My first paragraph.</p>
+
+ 
+<!-- 
+
+
+   HTML basic image  
+
+ 
+-->
+
+
+<img src="https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?cs=srgb&dl=pexels-james-wheeler-414612.jpg&fm=jpg" alt="W3Schools.com" width="104" height="142" />
+
 
 <!-- 
 
@@ -52,29 +68,12 @@ HTML basic link
 
 -->
 
+ 
+
+<a href="https://www.ashishyesale.com">This is a link</a>
 
 
-
-<a href="https://www.w3schools.com">This is a link</a>
-
-
-
-<!-- 
-
-
-   HTML basic image  
-
-
-
-
-
-
--->
-
-
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
 
 </body>
 </html>
-
 
