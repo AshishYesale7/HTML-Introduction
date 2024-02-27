@@ -1,0 +1,29 @@
+<!DOCYTYPE html>
+
+<html>
+<head>
+<title> PAGE TITLE </title>
+</head>
+
+<h1> My First Heading - by ashish yesale </h1>
+<h1> My first paragraph </p>
+
+</head>
+</html
+
+<!--      Descripton for Above example -->
+
+<h3> Example Explained </h3>
+
+<ui> 
+<li>The <!DOCKTYPE html> declaration defines that document is an HTML5 document </li>
+<li> The <html> Element is  the root element of an html page </li>
+<li> The <head> element contains meta information about the HTML page </li>
+<li> The <body> element defins sepcific a title bar or in the page (which is shown in the browser title bar or in the page tab)
+<li> The <h1> element defines a large heading </li>
+<li> The <p> element defines a paragraph </li>
+
+</ui>
+
+
+
